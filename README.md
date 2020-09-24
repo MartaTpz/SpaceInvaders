@@ -1,4 +1,4 @@
-# SpaceInvaders
+# Space Invaders
 Siguiendo tutorial de youtube
 
 
